@@ -1,4 +1,4 @@
-# Workout-
+# Huddle-
 # Front-end Style Guide
 
 ## Layout
